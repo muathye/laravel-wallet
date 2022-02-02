@@ -1,5 +1,5 @@
 {
-    "name": "muath-ye/wallet",
+    "name": "laravel-wallet",
     "description": "Easy to use virtual wallet for your laravel app",
     "keywords": [
         "muath-ye",
@@ -10,20 +10,9 @@
         "wallet",
         "payment"
     ],
-    "homepage": "https://github.com/muath-ye/wallet",
+    "homepage": "https://github.com/laravel-wallet",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Jannik Malken",
-            "email": "mannikj@web.de",
-            "role": "Developer"
-        },
-        {
-            "name": "Simon Depelchin",
-            "email": "simon@webartisan.be",
-            "homepage": "https://webartisan.be",
-            "role": "Developer"
-        },
         {
             "name": "Muathye",
             "email": "muathye@gmail.com",
@@ -31,13 +20,7 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
-        "illuminate/support": "^7.0|^8.0"
-    },
-    "require-dev": {
-        "doctrine/dbal": "^2.9",
-        "orchestra/testbench": "^6.0",
-        "phpunit/phpunit": "^9.3"
+        "php": "^7.3|^8.0"
     },
     "autoload": {
         "psr-4": {
