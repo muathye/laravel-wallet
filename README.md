@@ -9,7 +9,7 @@ All the wallet activities are tracked with transactions.
 Install the package with composer:
 
 ```bash
-composer require muath-ye/wallet
+composer require muathye/laravel-wallet
 ```
 
 ## Run Migrations
