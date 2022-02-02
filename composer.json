@@ -1,5 +1,5 @@
 {
-    "name": "laravel-wallet",
+    "name": "muathye/laravel-wallet",
     "description": "Easy to use virtual wallet for your laravel app",
     "keywords": [
         "muath-ye",
@@ -10,7 +10,7 @@
         "wallet",
         "payment"
     ],
-    "homepage": "https://github.com/laravel-wallet",
+    "homepage": "https://github.com/muathye/laravel-wallet",
     "license": "MIT",
     "authors": [
         {
